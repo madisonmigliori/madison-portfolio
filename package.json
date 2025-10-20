@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@formspree/react": "^3.0.0",
+    "@gsap/react": "^2.1.2",
+    "gsap": "^3.13.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
